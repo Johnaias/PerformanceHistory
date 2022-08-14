@@ -3,7 +3,7 @@ from __future__ import division
 from sys import argv
 import re
 from collections import Counter
-from sets import Set
+pip install matplotlib
 import matplotlib.pyplot as plt
 import xml.etree.ElementTree as ET
 import MySQLdb
